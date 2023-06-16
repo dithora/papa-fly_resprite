@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Giga Papa Fly</name>
+    <directory>gpf</directory>
+    <id>2990183696</id>
+    <description>Заменяет спрайт папа-флая на ГИГАпапа-флая. Сделано специально для канала Ant on-off(твич: https://www.twitch.tv/ant_on_off).</description>
+    <version>1.5</version>
+    <visibility>Public</visibility>
+    <tag id="Items"/>
+    <tag id="Shaders"/>
+</metadata>
